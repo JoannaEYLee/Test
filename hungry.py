@@ -1,5 +1,5 @@
-print("I'm hungry")
-print("I just ate")
-print("I'm NOT hungry anymore")
-print("I'm hungry again")
-print("I'm thirsty now")
+hungry = input("are you hungry?")
+if hungry=="yes":
+    print("eat samosa")
+else:
+    print("do your homework")
